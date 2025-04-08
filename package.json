@@ -1,0 +1,15 @@
+{
+  "name": "instaclone",
+  "version": "1.0.0",
+  "description": "This is github first repository This is demo Author - Aditya",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aditya Prakash",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^5.1.0"
+  }
+}
